@@ -15,7 +15,24 @@ func main() {
 		log.Fatal(err)
 	}
 	for _, data := range csvFiles {
+		removeEmptyResults(path.Join(csvDir, data.Name()))
 		removeCountryColumn(path.Join(csvDir, data.Name()))
+	}
+}
+
+func removeEmptyResults(csvFp string) {
+	csvFile, err := os.Open(csvFp)
+	if err != nil {
+		log.Fatal(err)
+	}
+	reader := csv.NewReader(csvFile)
+	bigSlice, _ := reader.ReadAll()
+	if len(bigSlice) == 1 {
+		err := os.Remove(csvFp)
+		if err != nil {
+			log.Fatal(err)
+		}
+
 	}
 }
 
