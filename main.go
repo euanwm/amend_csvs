@@ -20,6 +20,7 @@ func main() {
 	}
 }
 
+//removeEmptyResults Removes any csv file that doesn't contain any results, not sure why it happens
 func removeEmptyResults(csvFp string) {
 	csvFile, err := os.Open(csvFp)
 	if err != nil {
@@ -36,6 +37,8 @@ func removeEmptyResults(csvFp string) {
 	}
 }
 
+//removeCountryColumn When creating the Australia weightlifting results I stupidly added in AUS to each result line.
+//this removes that annoying column because it fucks up stuff higher in the stack
 func removeCountryColumn(csvFp string) {
 	csvFile, err := os.Open(csvFp)
 	if err != nil {
