@@ -16,9 +16,9 @@ func main() {
 	}
 	for _, data := range csvFiles {
 		fpath := path.Join(csvDir, data.Name())
-		removeEmptyResults(fpath)
 		removeCountryColumn(fpath)
 		fillEmptyColumns(fpath)
+		removeEmptyResults(fpath)
 	}
 }
 
