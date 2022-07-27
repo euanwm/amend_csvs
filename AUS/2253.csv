@@ -3,7 +3,7 @@ AWF Masters Open,2020-10-24,female,Larissa Banks,54.50,48,51,53,58,62,65,53,65,1
 AWF Masters Open,2020-10-24,female,Sonia Stenhouse,54.30,35,39,40,45,48,51,40,51,91
 AWF Masters Open,2020-10-24,female,Julie Davis,54.40,25,26,27,33,35,36,27,35,62
 AWF Masters Open,2020-10-24,female,Rebecca Chidlow,58.75,50,53,53,68,71,71,53,71,124
-AWF Masters Open,2020-10-24,female,Gabrielle Snowdon,59.00,47,50,53,58,62,,50,58,108
+AWF Masters Open,2020-10-24,female,Gabrielle Snowdon,59.00,47,50,53,58,62,0,50,58,108
 AWF Masters Open,2020-10-24,female,Katja Jensen,58.35,42,45,48,55,58,62,45,62,107
 AWF Masters Open,2020-10-24,female,Diana Loy,58.65,35,35,41,58,58,63,35,58,93
 AWF Masters Open,2020-10-24,female,Merryn Hillhouse,56.45,31,33,35,43,45,46,33,46,79
@@ -43,6 +43,6 @@ AWF Masters Open,2020-10-24,male,Chris Partridge,100.15,91,91,97,128,131,137,97,
 AWF Masters Open,2020-10-24,male,Iain Blacow,101.95,83,88,92,95,100,105,92,105,197
 AWF Masters Open,2020-10-24,male,Gerard Nelson,98.35,75,80,80,95,101,101,80,95,175
 AWF Masters Open,2020-10-24,male,Stephen Johnstone,100.05,70,76,76,80,86,91,70,91,161
-AWF Masters Open,2020-10-24,male,Ignatius Papenga,102.00,107,107,107,,,,0,0,0
+AWF Masters Open,2020-10-24,male,Ignatius Papenga,102.00,107,107,107,0,0,0,0,0,0
 AWF Masters Open,2020-10-24,male,Adrian Lamond,107.10,98,102,106,132,137,137,102,137,239
 AWF Masters Open,2020-10-24,male,Scott Mark,107.10,67,71,74,87,91,95,74,95,169

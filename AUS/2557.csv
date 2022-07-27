@@ -5,7 +5,7 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Grace Tjerkstra,54.30,55,-58,58,65,-70,-70,58,65,123
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Kailee Heerema,58.85,53,-56,56,72,76,-80,56,76,132
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Kiana Bennett-Tamati,57.35,55,58,60,65,70,-73,60,70,130
-"WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Renee Hogan,63.70,73,76,78,100,-103,,78,100,178
+"WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Renee Hogan,63.70,73,76,78,100,-103,0,78,100,178
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Elizabeth Duguid,62.75,66,69,72,86,89,92,72,92,164
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Georgia Farrow,61.20,66,69,-72,85,-88,88,69,88,157
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,female,Gabi Scaffidi,62.50,65,68,-71,-82,82,84,68,84,152
@@ -37,7 +37,7 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,male,Nikola Zivanovic,87.20,108,112,115,128,133,-137,115,133,248
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,male,Louis Cassell,87.70,98,-103,-105,120,-123,125,98,125,223
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,male,Justin Brown,87.90,85,-90,90,105,-110,-110,90,105,195
-"WWA Junior, Under 23, Seniors & Open",2021-07-25,male,Oliver Saxton,87.90,125,-130,130,-150,-150,,130,0,0
+"WWA Junior, Under 23, Seniors & Open",2021-07-25,male,Oliver Saxton,87.90,125,-130,130,-150,-150,0,130,0,0
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,male,George Winston,94.55,90,93,96,140,146,148,96,148,244
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,male,Nikolas Grubelich,95.50,93,-96,96,108,-113,-115,96,108,204
 "WWA Junior, Under 23, Seniors & Open",2021-07-25,male,Jett Hoover,93.00,-80,80,-82,100,102,105,80,105,185

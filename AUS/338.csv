@@ -27,5 +27,5 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 "WWA U15, Youth, Jun, Sen and Masters Champs",2013-05-26,male,Naruhiro Hori,82.50,91,94,96,118,121,-124,96,121,217
 "WWA U15, Youth, Jun, Sen and Masters Champs",2013-05-26,male,Brendan Kennedy,88.25,80,-84,84,100,106,112,84,112,196
 "WWA U15, Youth, Jun, Sen and Masters Champs",2013-05-26,male,Brian Beck,88.95,77,81,-85,100,-105,105,81,105,186
-"WWA U15, Youth, Jun, Sen and Masters Champs",2013-05-26,male,Adrian Frankling,91.35,77,-77,77,100,-105,,77,100,177
+"WWA U15, Youth, Jun, Sen and Masters Champs",2013-05-26,male,Adrian Frankling,91.35,77,-77,77,100,-105,0,77,100,177
 "WWA U15, Youth, Jun, Sen and Masters Champs",2013-05-26,male,Chris Eastwell,101.70,122,-130,130,151,-156,-156,130,151,281

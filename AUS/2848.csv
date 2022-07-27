@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Shred Barbell Open Competition,2022-04-03,female,Alison Mcdonald,44.35,21,,,23,-25,-26,21,23,44
+Shred Barbell Open Competition,2022-04-03,female,Alison Mcdonald,44.35,21,0,0,23,-25,-26,21,23,44
 Shred Barbell Open Competition,2022-04-03,female,Mary Macken,47.25,30,33,-36,35,40,-45,33,40,73
 Shred Barbell Open Competition,2022-04-03,female,Lara Perry,53.45,32,35,38,43,45,47,38,47,85
 Shred Barbell Open Competition,2022-04-03,female,Angel Lomuntad,53.60,18,22,-24,22,25,28,22,28,50
@@ -34,7 +34,7 @@ Shred Barbell Open Competition,2022-04-03,female,Baley Yim,98.90,41,-44,45,54,58
 Shred Barbell Open Competition,2022-04-03,male,Xavier Byrnes,53.40,31,34,36,38,41,44,36,44,80
 Shred Barbell Open Competition,2022-04-03,male,George Ivanovski,56.75,40,45,50,55,60,65,50,65,115
 Shred Barbell Open Competition,2022-04-03,male,Aj Nath,59.60,12,15,17,14,16,18,17,18,35
-Shred Barbell Open Competition,2022-04-03,male,Kam Shun Cheung,66.80,-85,-87,-89,,,,0,0,0
+Shred Barbell Open Competition,2022-04-03,male,Kam Shun Cheung,66.80,-85,-87,-89,0,0,0,0,0,0
 Shred Barbell Open Competition,2022-04-03,male,Ali Khan,69.45,31,35,-40,40,45,51,35,51,86
 Shred Barbell Open Competition,2022-04-03,male,Sunny Kong,75.65,82,86,90,102,106,110,90,110,200
 Shred Barbell Open Competition,2022-04-03,male,Judd Felsher,76.05,-83,84,-88,110,-115,115,84,115,199
@@ -43,14 +43,14 @@ Shred Barbell Open Competition,2022-04-03,male,Brett Moxham,79.70,75,-80,-81,100
 Shred Barbell Open Competition,2022-04-03,male,Patrick Halsey,82.15,111,116,-120,138,145,150,116,150,266
 Shred Barbell Open Competition,2022-04-03,male,Jonathan Santos,87.75,95,100,105,125,130,135,105,135,240
 Shred Barbell Open Competition,2022-04-03,male,Scott Cameron,82.95,80,85,90,100,104,108,90,108,198
-Shred Barbell Open Competition,2022-04-03,male,Aiden Woollam,85.90,-95,-96,-96,,,,0,0,0
+Shred Barbell Open Competition,2022-04-03,male,Aiden Woollam,85.90,-95,-96,-96,0,0,0,0,0,0
 Shred Barbell Open Competition,2022-04-03,male,Jack Mccann,93.80,100,-105,-106,122,130,-136,100,130,230
 Shred Barbell Open Competition,2022-04-03,male,Andrei Semeniuk,93.80,-95,95,101,120,-127,-130,101,120,221
 Shred Barbell Open Competition,2022-04-03,male,Gavin Blake,94.50,52,55,58,72,75,78,58,78,136
 Shred Barbell Open Competition,2022-04-03,male,Peter Ticehurst,90.80,40,43,46,60,-64,64,46,64,110
 Shred Barbell Open Competition,2022-04-03,male,Rhy Sutcliffe,98.10,100,-106,107,120,128,-132,107,128,235
 Shred Barbell Open Competition,2022-04-03,male,Aloysius Watkins,99.20,-80,80,-86,-100,-103,103,80,103,183
-Shred Barbell Open Competition,2022-04-03,male,Jay Watson,100.75,60,-75,-75,90,100,,60,100,160
+Shred Barbell Open Competition,2022-04-03,male,Jay Watson,100.75,60,-75,-75,90,100,0,60,100,160
 Shred Barbell Open Competition,2022-04-03,male,Steven Reitano,100.10,60,65,-70,85,92,-97,65,92,157
 Shred Barbell Open Competition,2022-04-03,male,Abdullah Khan,107.45,50,60,65,90,95,-100,65,95,160
 Shred Barbell Open Competition,2022-04-03,male,Daniel Bartels,115.75,65,75,85,85,100,115,85,115,200

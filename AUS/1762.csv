@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 Grizzly’s #2,2018-11-18,female,Lily Dawson,29.60,3,4,5,4,6,7,5,7,12
-Grizzly’s #2,2018-11-18,female,Holly Russell,21.10,4,5,6,5,,,6,5,11
+Grizzly’s #2,2018-11-18,female,Holly Russell,21.10,4,5,6,5,0,0,6,5,11
 Grizzly’s #2,2018-11-18,female,Ramona Faamausili-Fala,47.70,25,28,30,35,38,-40,30,38,68
 Grizzly’s #2,2018-11-18,female,Aniska Swanepoel,49.00,15,-18,18,18,20,23,18,23,41
 Grizzly’s #2,2018-11-18,female,Indyana Kirschke,47.20,6,7,8,11,13,15,8,15,23
@@ -25,4 +25,4 @@ Grizzly’s #2,2018-11-18,male,Joel Gregson,87.90,123,127,-130,160,-165,166,127,
 Grizzly’s #2,2018-11-18,male,Dusty Miller,88.40,78,-81,-82,98,102,-104,78,102,180
 Grizzly’s #2,2018-11-18,male,Samu Banyai,92.20,106,-110,110,123,127,-130,110,127,237
 Grizzly’s #2,2018-11-18,male,Brendan Kennedy,92.00,85,88,91,109,-113,-116,91,109,200
-Grizzly’s #2,2018-11-18,male,Ilan Josephs,109.10,92,-98,-98,,,,92,0,0
+Grizzly’s #2,2018-11-18,male,Ilan Josephs,109.10,92,-98,-98,0,0,0,92,0,0

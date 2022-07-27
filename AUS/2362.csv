@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 Milton Weightlifting Club Christmas Competition in conjunction with QWA Club Challenge Rd 3,2020-12-05,female,Tin Ablaza,54.55,33,35,-37,43,45,47,35,47,82
 Milton Weightlifting Club Christmas Competition in conjunction with QWA Club Challenge Rd 3,2020-12-05,female,Katie Ward,58.76,40,43,-46,50,-54,54,43,54,97
-Milton Weightlifting Club Christmas Competition in conjunction with QWA Club Challenge Rd 3,2020-12-05,female,Jessica Brouff,58.27,-40,40,-43,-52,52,,40,52,92
+Milton Weightlifting Club Christmas Competition in conjunction with QWA Club Challenge Rd 3,2020-12-05,female,Jessica Brouff,58.27,-40,40,-43,-52,52,0,40,52,92
 Milton Weightlifting Club Christmas Competition in conjunction with QWA Club Challenge Rd 3,2020-12-05,female,Aisling Scott,67.88,60,63,-65,79,82,85,63,85,148
 Milton Weightlifting Club Christmas Competition in conjunction with QWA Club Challenge Rd 3,2020-12-05,female,Sarah Scott,70.74,54,57,60,68,71,74,60,74,134
 Milton Weightlifting Club Christmas Competition in conjunction with QWA Club Challenge Rd 3,2020-12-05,female,Claylia Ward,78.28,25,28,-31,35,38,40,28,40,68

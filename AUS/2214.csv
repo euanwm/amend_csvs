@@ -25,9 +25,9 @@ Inner West Barbell Open Competition,2019-03-24,male,Danny Doan,65.80,55,60,63,75
 Inner West Barbell Open Competition,2019-03-24,male,Alan Hayek,72.00,95,-100,100,-115,115,120,100,120,220
 Inner West Barbell Open Competition,2019-03-24,male,Jeffrey Tang,71.50,70,75,80,-100,105,-112,80,105,185
 Inner West Barbell Open Competition,2019-03-24,male,Andrew Khidhir,75.40,90,95,-100,110,-114,-114,95,110,205
-Inner West Barbell Open Competition,2019-03-24,male,Alvin Tobias-Nool,80.30,83,87,90,103,110,,90,110,200
+Inner West Barbell Open Competition,2019-03-24,male,Alvin Tobias-Nool,80.30,83,87,90,103,110,0,90,110,200
 Inner West Barbell Open Competition,2019-03-24,male,Matthew Nguyen,80.10,45,55,65,65,75,85,65,85,150
-Inner West Barbell Open Competition,2019-03-24,male,Alex Hersey,80.40,-106,-106,-106,,,,0,0,0
+Inner West Barbell Open Competition,2019-03-24,male,Alex Hersey,80.40,-106,-106,-106,0,0,0,0,0,0
 Inner West Barbell Open Competition,2019-03-24,male,Brock Baldwin,87.20,110,115,-120,135,142,147,115,147,262
 Inner West Barbell Open Competition,2019-03-24,male,Peter Lieu,89.00,106,-110,-112,110,-120,-125,106,110,216
 Inner West Barbell Open Competition,2019-03-24,male,Dean Coulter,82.90,-86,-87,87,99,105,-109,87,105,192
@@ -36,4 +36,4 @@ Inner West Barbell Open Competition,2019-03-24,male,Peter Ticehurst,88.50,50,-53
 Inner West Barbell Open Competition,2019-03-24,male,Tyson Hudson,95.50,103,108,-112,-133,-133,133,108,133,241
 Inner West Barbell Open Competition,2019-03-24,male,Bilal Elbatoory,93.10,70,75,80,-100,100,-103,80,100,180
 Inner West Barbell Open Competition,2019-03-24,male,Jack Brearley,98.20,90,-120,120,109,-145,-145,120,109,229
-Inner West Barbell Open Competition,2019-03-24,male,Jesse Austin,96.80,-85,-87,-87,,,,0,0,0
+Inner West Barbell Open Competition,2019-03-24,male,Jesse Austin,96.80,-85,-87,-87,0,0,0,0,0,0

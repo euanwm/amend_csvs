@@ -2,7 +2,7 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 VWA Open,2017-11-18,female,Amber Fielder,51.40,25,30,32,35,40,42,32,42,74
 VWA Open,2017-11-18,female,Kaitlyn Duignan,57.67,61,-64,-64,78,81,-84,61,81,142
 VWA Open,2017-11-18,female,Jessica Dudgeon,68.65,41,45,49,61,65,67,49,67,116
-VWA Open,2017-11-18,female,Sherri Stephen,74.73,-60,-60,-60,,,,0,0,0
+VWA Open,2017-11-18,female,Sherri Stephen,74.73,-60,-60,-60,0,0,0,0,0,0
 VWA Open,2017-11-18,male,Peter Archimandritis,70.51,92,97,101,107,112,117,101,117,218
 VWA Open,2017-11-18,male,Sam Storer,78.56,85,-93,93,115,123,-127,93,123,216
 VWA Open,2017-11-18,male,Alvin Asangi,80.24,60,65,-68,75,80,85,65,85,150

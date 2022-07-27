@@ -25,5 +25,5 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 "Commonwealth Senior, Junior, Youth Champs",2013-11-28,male,Shane Wagner,84.01,95,100,104,120,128,131,104,131,235
 "Commonwealth Senior, Junior, Youth Champs",2013-11-28,male,Simplice Ribouem,93.10,145,150,-153,180,-187,187,150,187,337
 "Commonwealth Senior, Junior, Youth Champs",2013-11-28,male,Robert Galsworthy,104.56,140,145,150,180,-185,-185,150,180,330
-"Commonwealth Senior, Junior, Youth Champs",2013-11-28,male,Ben Turner,76.91,117,-120,-120,147,,,117,147,264
-"Commonwealth Senior, Junior, Youth Champs",2013-11-28,male,Zac Grgurevic,93.65,-135,-135,-135,,,,0,0,0
+"Commonwealth Senior, Junior, Youth Champs",2013-11-28,male,Ben Turner,76.91,117,-120,-120,147,0,0,117,147,264
+"Commonwealth Senior, Junior, Youth Champs",2013-11-28,male,Zac Grgurevic,93.65,-135,-135,-135,0,0,0,0,0,0

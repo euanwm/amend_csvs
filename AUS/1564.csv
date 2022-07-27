@@ -2,7 +2,7 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 AWF U15 & U17 Championships,2018-07-07,female,Lauren Hastings,46.95,36,39,41,46,49,50,39,46,85
 AWF U15 & U17 Championships,2018-07-07,female,Piper Goodwin,46.80,24,26,28,33,35,37,26,35,61
 AWF U15 & U17 Championships,2018-07-07,female,Kiara Power,37.15,21,23,25,26,29,32,23,32,55
-AWF U15 & U17 Championships,2018-07-07,female,Charlee Adams,33.70,21,,,21,23,24,21,24,45
+AWF U15 & U17 Championships,2018-07-07,female,Charlee Adams,33.70,21,0,0,21,23,24,21,24,45
 AWF U15 & U17 Championships,2018-07-07,female,Maddison Power,52.90,57,59,61,70,73,76,61,76,137
 AWF U15 & U17 Championships,2018-07-07,female,Maia Ratana-Leef,52.25,35,38,40,45,48,51,40,51,91
 AWF U15 & U17 Championships,2018-07-07,female,Hannah Pickrell,51.45,32,35,38,42,45,50,38,50,88
@@ -68,7 +68,7 @@ AWF U15 & U17 Championships,2018-07-07,male,Brijesh Vaddi,67.15,40,43,46,52,56,6
 AWF U15 & U17 Championships,2018-07-07,male,Adam Mcwhinnie,63.80,27,30,30,38,41,41,27,38,65
 AWF U15 & U17 Championships,2018-07-07,male,Ricky Huang,74.70,85,88,90,112,115,120,88,115,203
 AWF U15 & U17 Championships,2018-07-07,male,Nathan Milham,73.45,53,56,60,55,60,65,56,60,116
-AWF U15 & U17 Championships,2018-07-07,male,William Saxton,76.95,100,100,105,,,,0,0,0
+AWF U15 & U17 Championships,2018-07-07,male,William Saxton,76.95,100,100,105,0,0,0,0,0,0
 AWF U15 & U17 Championships,2018-07-07,male,Jaspa Hope,79.80,85,90,93,110,115,120,90,120,210
 AWF U15 & U17 Championships,2018-07-07,male,Dillon Fisler,77.40,82,87,92,100,104,106,92,106,198
 AWF U15 & U17 Championships,2018-07-07,male,Rourke Turton,77.50,79,83,86,95,100,105,86,100,186

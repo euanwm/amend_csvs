@@ -15,8 +15,42 @@ func main() {
 		log.Fatal(err)
 	}
 	for _, data := range csvFiles {
-		removeEmptyResults(path.Join(csvDir, data.Name()))
-		removeCountryColumn(path.Join(csvDir, data.Name()))
+		fpath := path.Join(csvDir, data.Name())
+		removeEmptyResults(fpath)
+		removeCountryColumn(fpath)
+		fillEmptyColumns(fpath)
+	}
+}
+
+//fillEmptyColumns A lot of the results files - where people have bombed out or not taken attempts - do not have any contents.
+//This could throw some issues in pulling them into the larger database.
+func fillEmptyColumns(csvfp string) {
+	csvFile, err := os.Open(csvfp)
+	if err != nil {
+		log.Fatal(err)
+	}
+	reader := csv.NewReader(csvFile)
+	bigSlice, _ := reader.ReadAll()
+	for _, data := range bigSlice {
+		for index, contents := range data {
+			if len(contents) == 0 {
+				data[index] = "0"
+			}
+		}
+	}
+	writeCSV(csvfp, bigSlice)
+}
+
+//writeCSV Writes CSV file, first arg is the filepath/name. Second is the bigSlice data.
+func writeCSV(csvFp string, bigSlice [][]string) {
+	newCsvFile, err := os.Create(csvFp)
+	if err != nil {
+		log.Fatal(err)
+	}
+	writer := csv.NewWriter(newCsvFile)
+	writeData := writer.WriteAll(bigSlice)
+	if writeData != nil {
+		fmt.Println(writeData)
 	}
 }
 
@@ -52,13 +86,5 @@ func removeCountryColumn(csvFp string) {
 			bigSlice[index] = line[:14]
 		}
 	}
-	newCsvFile, err := os.Create(csvFp)
-	if err != nil {
-		log.Fatal(err)
-	}
-	writer := csv.NewWriter(newCsvFile)
-	writeData := writer.WriteAll(bigSlice)
-	if writeData != nil {
-		fmt.Println(writeData)
-	}
+	writeCSV(csvFp, bigSlice)
 }

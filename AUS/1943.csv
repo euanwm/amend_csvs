@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 OWF & CWF Masters Championships,2019-06-13,female,Denese Billings,43.10,32,-34,34,42,-45,-45,34,42,76
-OWF & CWF Masters Championships,2019-06-13,female,Alison Mcdonald,43.34,-21,21,,21,24,-26,21,24,45
+OWF & CWF Masters Championships,2019-06-13,female,Alison Mcdonald,43.34,-21,21,0,21,24,-26,21,24,45
 OWF & CWF Masters Championships,2019-06-13,female,Christine Yiannakis,47.18,40,42,44,-59,59,62,44,62,106
 OWF & CWF Masters Championships,2019-06-13,female,Mary Macken,48.48,35,38,40,45,-49,49,40,49,89
 OWF & CWF Masters Championships,2019-06-13,female,Lisa Souter,48.68,32,-34,-34,42,44,46,32,46,78
@@ -72,9 +72,9 @@ OWF & CWF Masters Championships,2019-06-13,female,Lay Sang Tan,69.14,-38,38,-41,
 OWF & CWF Masters Championships,2019-06-13,female,Sue Cox,68.25,37,39,-41,48,-50,-50,39,48,87
 OWF & CWF Masters Championships,2019-06-13,female,Cristina Capratsis,68.24,35,38,-41,45,49,-52,38,49,87
 OWF & CWF Masters Championships,2019-06-13,female,Mary Pekin,68.94,23,25,-27,27,28,-31,25,28,53
-OWF & CWF Masters Championships,2019-06-13,female,Bronwyn Graham,67.80,-60,-60,-60,,,,0,0,0
+OWF & CWF Masters Championships,2019-06-13,female,Bronwyn Graham,67.80,-60,-60,-60,0,0,0,0,0,0
 OWF & CWF Masters Championships,2019-06-13,female,Susan Hornick,75.50,60,64,-67,80,84,-88,64,84,148
-OWF & CWF Masters Championships,2019-06-13,female,Meagan Wellby,74.00,-61,61,-64,80,,,61,80,141
+OWF & CWF Masters Championships,2019-06-13,female,Meagan Wellby,74.00,-61,61,-64,80,0,0,61,80,141
 OWF & CWF Masters Championships,2019-06-13,female,Abiodun Ajisafe,72.25,54,57,-59,74,78,81,57,81,138
 OWF & CWF Masters Championships,2019-06-13,female,Emma Chapman,73.45,51,54,-56,66,70,73,54,73,127
 OWF & CWF Masters Championships,2019-06-13,female,Kelly Tumata,74.30,52,54,56,62,65,-72,56,65,121
@@ -102,7 +102,7 @@ OWF & CWF Masters Championships,2019-06-13,female,Amanda Crouch,84.75,50,54,-57,
 OWF & CWF Masters Championships,2019-06-13,female,Althea Mackie,84.80,44,-47,50,60,63,66,50,66,116
 OWF & CWF Masters Championships,2019-06-13,female,Tania Hodges,84.50,46,48,-51,60,63,-66,48,63,111
 OWF & CWF Masters Championships,2019-06-13,female,Grace Hayes,84.45,39,42,45,-59,59,-63,45,59,104
-OWF & CWF Masters Championships,2019-06-13,female,Margaret Webb,82.45,49,-51,51,-51,51,,51,51,102
+OWF & CWF Masters Championships,2019-06-13,female,Margaret Webb,82.45,49,-51,51,-51,51,0,51,51,102
 OWF & CWF Masters Championships,2019-06-13,female,Amanda Durham,84.95,45,-48,-48,55,-59,-59,45,55,100
 OWF & CWF Masters Championships,2019-06-13,female,Lainie Carter,87.00,34,36,38,44,46,50,38,50,88
 OWF & CWF Masters Championships,2019-06-13,female,Rupinder Kaur,86.85,27,35,40,38,45,-50,40,45,85
@@ -117,7 +117,7 @@ OWF & CWF Masters Championships,2019-06-13,female,Mary Bowie,101.90,50,53,-55,63
 OWF & CWF Masters Championships,2019-06-13,female,Selueni Ormsby,87.60,40,43,46,52,55,-58,46,55,101
 OWF & CWF Masters Championships,2019-06-13,female,Leah Chandler,93.60,42,48,-51,52,-55,-56,48,52,100
 OWF & CWF Masters Championships,2019-06-13,female,Kylie Posthumus,88.25,40,42,-43,52,54,56,42,56,98
-OWF & CWF Masters Championships,2019-06-13,female,Sandra Smith,87.55,37,39,-41,50,,,39,50,89
+OWF & CWF Masters Championships,2019-06-13,female,Sandra Smith,87.55,37,39,-41,50,0,0,39,50,89
 OWF & CWF Masters Championships,2019-06-13,female,Rawena Tairi,92.35,34,35,-37,45,47,-50,35,47,82
 OWF & CWF Masters Championships,2019-06-13,male,Graham Walker,59.14,70,-75,-75,87,92,-95,70,92,162
 OWF & CWF Masters Championships,2019-06-13,male,Steven Howlett,58.40,65,-70,-70,86,-91,-93,65,86,151
@@ -147,7 +147,7 @@ OWF & CWF Masters Championships,2019-06-13,male,Jim Athanasopoulos,79.28,67,-70,
 OWF & CWF Masters Championships,2019-06-13,male,Greg Hobl,79.85,67,72,-75,87,91,-94,72,91,163
 OWF & CWF Masters Championships,2019-06-13,male,Garrith Chandler,80.48,66,-70,-70,-92,-92,92,66,92,158
 OWF & CWF Masters Championships,2019-06-13,male,Abid Hussain,74.20,-65,65,-70,90,-99,-99,65,90,155
-OWF & CWF Masters Championships,2019-06-13,male,Ron Fraser,79.34,55,60,,85,87,,60,87,147
+OWF & CWF Masters Championships,2019-06-13,male,Ron Fraser,79.34,55,60,0,85,87,0,60,87,147
 OWF & CWF Masters Championships,2019-06-13,male,Chris Duthie,80.36,-65,-65,65,80,-83,-83,65,80,145
 OWF & CWF Masters Championships,2019-06-13,male,Yi Da Braden Hon,79.50,60,-65,65,-75,75,-85,65,75,140
 OWF & CWF Masters Championships,2019-06-13,male,Vimal Prajapat,79.48,55,60,65,70,75,-80,65,75,140
@@ -156,7 +156,7 @@ OWF & CWF Masters Championships,2019-06-13,male,Cang Dang,76.00,54,58,-61,66,70,
 OWF & CWF Masters Championships,2019-06-13,male,Chris Holt,80.30,40,45,-50,-55,55,60,45,60,105
 OWF & CWF Masters Championships,2019-06-13,male,Tony Hagar,76.84,32,34,36,42,45,47,36,47,83
 OWF & CWF Masters Championships,2019-06-13,male,Ryoji Furukawa,80.62,-50,50,-55,-75,-75,-75,50,0,0
-OWF & CWF Masters Championships,2019-06-13,male,Mark Muir,87.42,90,93,96,125,-130,,96,125,221
+OWF & CWF Masters Championships,2019-06-13,male,Mark Muir,87.42,90,93,96,125,-130,0,96,125,221
 OWF & CWF Masters Championships,2019-06-13,male,Colin Schram,84.94,-95,95,-98,120,-127,-132,95,120,215
 OWF & CWF Masters Championships,2019-06-13,male,Karl Duncan,87.20,-95,95,-100,113,-116,-119,95,113,208
 OWF & CWF Masters Championships,2019-06-13,male,Dion Walmsley,86.00,83,86,-89,113,117,-120,86,117,203
@@ -168,7 +168,7 @@ OWF & CWF Masters Championships,2019-06-13,male,Ismail Haskara,88.05,58,-62,-66,
 OWF & CWF Masters Championships,2019-06-13,male,John Hanlon,88.88,55,62,-66,70,-81,-81,62,70,132
 OWF & CWF Masters Championships,2019-06-13,male,Tjaart Van Der Walt,87.86,53,56,-59,68,72,75,56,75,131
 OWF & CWF Masters Championships,2019-06-13,male,Peter Ticehurst,88.10,48,-51,-51,72,76,-78,48,76,124
-OWF & CWF Masters Championships,2019-06-13,male,Sushil Kumar,87.35,-60,-60,-60,,,,0,0,0
+OWF & CWF Masters Championships,2019-06-13,male,Sushil Kumar,87.35,-60,-60,-60,0,0,0,0,0,0
 OWF & CWF Masters Championships,2019-06-13,male,Santokh Kumar,95.05,102,110,-115,135,150,155,110,155,265
 OWF & CWF Masters Championships,2019-06-13,male,Matthew Gibbons,94.70,93,-98,101,125,131,-136,101,131,232
 OWF & CWF Masters Championships,2019-06-13,male,Adam Brand,95.10,100,106,-110,-120,120,124,106,124,230
@@ -177,7 +177,7 @@ OWF & CWF Masters Championships,2019-06-13,male,Steve Tague,91.15,96,-102,-103,1
 OWF & CWF Masters Championships,2019-06-13,male,Ignatius Papenga,93.55,-93,93,95,120,-125,-125,95,120,215
 OWF & CWF Masters Championships,2019-06-13,male,Nathan Mortensen,89.60,86,93,-100,-118,120,-125,93,120,213
 OWF & CWF Masters Championships,2019-06-13,male,Amarjit Singh Deol,94.30,75,82,-90,100,-110,110,82,110,192
-OWF & CWF Masters Championships,2019-06-13,male,Sukhwinder Singh,94.00,75,80,,90,100,110,80,110,190
+OWF & CWF Masters Championships,2019-06-13,male,Sukhwinder Singh,94.00,75,80,0,90,100,110,80,110,190
 OWF & CWF Masters Championships,2019-06-13,male,Kamaljit Singh,95.35,70,75,-78,94,100,-105,75,100,175
 OWF & CWF Masters Championships,2019-06-13,male,Andrew Brown,94.75,77,-83,-83,-90,-90,90,77,90,167
 OWF & CWF Masters Championships,2019-06-13,male,Peter Thomsen,95.75,70,73,-76,92,-97,-97,73,92,165
@@ -193,7 +193,7 @@ OWF & CWF Masters Championships,2019-06-13,male,Warren Hellisen,102.40,100,105,-
 OWF & CWF Masters Championships,2019-06-13,male,Tevita Ngalu,107.45,95,106,113,120,130,137,113,137,250
 OWF & CWF Masters Championships,2019-06-13,male,Peter Foster,106.55,70,75,80,80,85,95,80,95,175
 OWF & CWF Masters Championships,2019-06-13,male,Steven Reitano,103.20,65,-71,-75,85,91,96,65,96,161
-OWF & CWF Masters Championships,2019-06-13,male,Jarnail Singh,103.85,40,46,-52,60,-70,,46,60,106
+OWF & CWF Masters Championships,2019-06-13,male,Jarnail Singh,103.85,40,46,-52,60,-70,0,46,60,106
 OWF & CWF Masters Championships,2019-06-13,male,Gurpreet Singh,116.30,100,110,120,130,140,-150,120,140,260
 OWF & CWF Masters Championships,2019-06-13,male,Aaron Gray,110.60,105,110,-116,130,140,145,110,145,255
 OWF & CWF Masters Championships,2019-06-13,male,Johan Handwerk,149.85,95,105,109,115,125,132,109,132,241
@@ -202,4 +202,4 @@ OWF & CWF Masters Championships,2019-06-13,male,Mathew Seeto,116.15,80,85,90,97,
 OWF & CWF Masters Championships,2019-06-13,male,Mauricio Mena,112.80,75,78,-80,92,-98,100,78,100,178
 OWF & CWF Masters Championships,2019-06-13,male,Adam Kuffner,110.50,78,-80,-80,-100,-100,100,78,100,178
 OWF & CWF Masters Championships,2019-06-13,male,Gurjit Singh,115.90,60,-65,65,-70,70,80,65,80,145
-OWF & CWF Masters Championships,2019-06-13,male,Robert Gotts,117.58,-60,-60,-60,,,,0,0,0
+OWF & CWF Masters Championships,2019-06-13,male,Robert Gotts,117.58,-60,-60,-60,0,0,0,0,0,0

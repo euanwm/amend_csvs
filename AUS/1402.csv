@@ -23,7 +23,7 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 2017 Masters Championships,2017-02-18,male,Tim Sumpton,84.16,75,80,-82,95,100,104,80,104,184
 2017 Masters Championships,2017-02-18,male,Warren Seen,87.48,70,75,-79,90,-98,99,75,99,174
 2017 Masters Championships,2017-02-18,male,Ben Clark,84.04,60,65,70,85,90,96,70,96,166
-2017 Masters Championships,2017-02-18,male,Jeff Towns,92.40,50,-53,53,78,81,,53,81,134
+2017 Masters Championships,2017-02-18,male,Jeff Towns,92.40,50,-53,53,78,81,0,53,81,134
 2017 Masters Championships,2017-02-18,male,Dale Hall-Bowden,96.44,85,90,95,110,115,-118,95,115,210
 2017 Masters Championships,2017-02-18,male,Mick Burton,104.30,-83,83,-86,111,-118,118,83,118,201
 2017 Masters Championships,2017-02-18,male,Nathan O'Halloran,102.70,70,75,-80,95,100,105,75,105,180

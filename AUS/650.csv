@@ -46,13 +46,13 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Cooper Ward,45.70,20,23,25,32,36,40,25,40,65
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Kanishka Guyan Jayaratne,67.90,82,86,90,109,114,117,90,117,207
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Tom Friedlander,64.90,64,68,70,86,90,-93,70,90,160
-"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,James Pakchung,74.70,-102,102,-108,-125,125,,102,125,227
+"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,James Pakchung,74.70,-102,102,-108,-125,125,0,102,125,227
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Ryley Porter,76.50,90,95,-100,120,125,130,95,130,225
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Christopher Lai,73.90,84,88,92,118,123,-126,92,123,215
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Ben Ward,75.30,-85,85,-89,98,-102,102,85,102,187
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Ben Slade,73.50,53,55,57,65,70,73,57,73,130
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Bailey Dixon,70.10,32,34,35,35,38,42,35,42,77
-"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,James Norman,71.60,-98,-98,-98,,,,0,0,0
+"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,James Norman,71.60,-98,-98,-98,0,0,0,0,0,0
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Beau Garrett,79.60,100,105,110,125,130,135,110,135,245
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Riki Hoben,83.30,82,-87,87,115,120,125,87,125,212
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Brent Vaughan,84.50,-82,82,86,107,111,-114,86,111,197
@@ -60,16 +60,16 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Ashton Masters,82.80,70,73,76,95,100,103,76,103,179
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Adam Smidt,77.90,50,55,60,60,65,70,60,70,130
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Tim Holdsworth,82.60,-100,-100,-100,-123,123,-125,0,123,0
-"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Luke Gardner,94.00,-120,120,123,155,,,123,155,278
+"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Luke Gardner,94.00,-120,120,123,155,0,0,123,155,278
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Benjamin Shaw,89.70,110,115,120,135,140,145,120,145,265
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Bowen Stuart,88.80,95,100,-105,120,125,-130,100,125,225
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Joey Collins,92.70,78,82,85,118,122,125,85,125,210
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Adam Hoyes,86.20,88,92,-95,115,-120,-120,92,115,207
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Tim Hiscock,89.00,72,76,-80,102,107,112,76,112,188
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Royce Dunne,102.30,115,120,125,145,150,155,125,155,280
-"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Shane Wagner,95.80,102,107,112,125,132,,112,132,244
+"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Shane Wagner,95.80,102,107,112,125,132,0,112,132,244
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Rohan Cuffe,95.30,98,102,105,127,132,137,105,137,242
-"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Damon Kelly,144.10,150,155,-160,185,195,,155,195,350
+"QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Damon Kelly,144.10,150,155,-160,185,195,0,155,195,350
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Jackson Solofa,122.90,125,-130,130,155,160,-165,130,160,290
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Thomas O'Brien,138.50,-95,95,98,115,118,122,98,122,220
 "QWA League Round 3, Masters League Round 3, and Eleiko AWF Club Challenge State Qualifying Event",2015-08-15,male,Miguel Beltran,68.70,83,87,-90,113,117,120,87,120,207

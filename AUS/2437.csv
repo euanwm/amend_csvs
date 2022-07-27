@@ -13,6 +13,6 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 2020 SAWLA State Championships,2020-09-12,male,Lenin Pichiayan,72.80,75,78,80,-95,-95,95,80,95,175
 2020 SAWLA State Championships,2020-09-12,male,Sebastian Pedroza,71.12,60,65,68,-80,80,-85,68,80,148
 2020 SAWLA State Championships,2020-09-12,male,Frank Elliott,87.38,115,122,126,145,155,-161,126,155,281
-2020 SAWLA State Championships,2020-09-12,male,James Newbury,88.30,-120,120,-125,,,,120,0,0
+2020 SAWLA State Championships,2020-09-12,male,James Newbury,88.30,-120,120,-125,0,0,0,120,0,0
 2020 SAWLA State Championships,2020-09-12,male,David Tyrrell,104.54,95,100,115,115,125,-135,115,125,240
 2020 SAWLA State Championships,2020-09-12,male,Anthony Formichella,128.10,65,69,74,80,84,90,74,90,164

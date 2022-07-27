@@ -28,7 +28,7 @@ National & Oceania Senior/Junior/Youth,2013-07-11,female,Sammy Wood,65.05,60,66,
 National & Oceania Senior/Junior/Youth,2013-07-11,female,Louisa Hou,64.20,55,-60,-63,70,75,-80,55,75,130
 National & Oceania Senior/Junior/Youth,2013-07-11,female,Francessa May,68.55,55,60,63,75,80,-83,55,75,130
 National & Oceania Senior/Junior/Youth,2013-07-11,female,Berlyn Hiram,65.30,43,47,53,55,60,65,53,65,118
-National & Oceania Senior/Junior/Youth,2013-07-11,female,Belinda Van Tienen,74.80,-73,73,,87,92,,73,92,165
+National & Oceania Senior/Junior/Youth,2013-07-11,female,Belinda Van Tienen,74.80,-73,73,0,87,92,0,73,92,165
 National & Oceania Senior/Junior/Youth,2013-07-11,female,Jessica Gilbert,74.95,57,61,64,77,81,82,64,82,146
 National & Oceania Senior/Junior/Youth,2013-07-11,female,Clare Cherry,72.85,58,62,64,-76,76,81,64,81,145
 National & Oceania Senior/Junior/Youth,2013-07-11,female,Stacy Koh,73.30,60,-64,-65,80,84,-87,60,84,144
@@ -87,7 +87,7 @@ National & Oceania Senior/Junior/Youth,2013-07-11,male,Sam Holston,74.55,85,-89,
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Norman Hanna,76.80,80,-83,-85,114,115,-120,80,115,195
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Andrew See,73.05,-80,80,88,100,-107,-110,88,100,188
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Adam Sennett,76.10,75,80,-84,97,102,-105,80,102,182
-National & Oceania Senior/Junior/Youth,2013-07-11,male,Paulo Magistrado,76.00,-112,-112,-112,,,,0,0,0
+National & Oceania Senior/Junior/Youth,2013-07-11,male,Paulo Magistrado,76.00,-112,-112,-112,0,0,0,0,0,0
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Troy Hewkins,84.05,-131,131,135,156,162,-164,135,162,297
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Ravshanbek Gulyamov,82.75,-130,131,137,155,-160,-162,137,155,292
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Benjamin Shaw,83.40,-113,113,-117,147,151,-153,113,151,264
@@ -125,8 +125,8 @@ National & Oceania Senior/Junior/Youth,2013-07-11,male,Jonathan Coy,93.75,-100,1
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Jakob Daniels,85.10,95,-100,100,117,122,127,100,127,227
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Dylan Oakford,93.75,-96,-96,96,120,125,-127,96,125,221
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Jake Ratcliffe,87.95,98,-103,-104,115,120,-125,98,120,218
-National & Oceania Senior/Junior/Youth,2013-07-11,male,Matthew Newman,86.00,-65,-65,-65,,,,0,0,0
-National & Oceania Senior/Junior/Youth,2013-07-11,male,Robert Galsworthy,104.85,140,145,-148,180,-185,,145,180,325
+National & Oceania Senior/Junior/Youth,2013-07-11,male,Matthew Newman,86.00,-65,-65,-65,0,0,0,0,0,0
+National & Oceania Senior/Junior/Youth,2013-07-11,male,Robert Galsworthy,104.85,140,145,-148,180,-185,0,145,180,325
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Max Dal Santo,99.40,140,145,-150,170,175,179,145,179,324
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Gordon Laurie,104.05,-145,145,-150,165,-171,-171,145,165,310
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Pete Hardiman,104.20,120,126,-130,-155,156,162,126,162,288
@@ -148,4 +148,4 @@ National & Oceania Senior/Junior/Youth,2013-07-11,male,Julio Melo,110.05,90,95,-
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Alex Greeff,115.05,85,-90,90,102,110,-116,90,110,200
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Damien Hewish,55.65,70,-75,75,85,-90,90,75,90,165
 National & Oceania Senior/Junior/Youth,2013-07-11,male,Naruhiro Hori,82.65,-91,91,96,-116,116,-121,96,116,212
-National & Oceania Senior/Junior/Youth,2013-07-11,male,Ben Mulder,94.95,105,110,,140,,,110,140,250
+National & Oceania Senior/Junior/Youth,2013-07-11,male,Ben Mulder,94.95,105,110,0,140,0,0,110,140,250

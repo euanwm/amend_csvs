@@ -25,7 +25,7 @@ Oceania Junior & Youth Championships,2022-05-21,female,Nancy Genzel Abouke,69.30
 Oceania Junior & Youth Championships,2022-05-21,female,Talemaiwasa Sebuita,69.85,60,65,70,80,85,-90,70,85,155
 Oceania Junior & Youth Championships,2022-05-21,female,Maria Aleta,69.50,60,-65,65,78,85,90,65,90,155
 Oceania Junior & Youth Championships,2022-05-21,female,Briseis Crighton – Teau,66.40,-48,48,51,65,70,-73,51,70,121
-Oceania Junior & Youth Championships,2022-05-21,female,Maximina Uepa,73.45,90,95,,115,120,-123,95,120,215
+Oceania Junior & Youth Championships,2022-05-21,female,Maximina Uepa,73.45,90,95,0,115,120,-123,95,120,215
 Oceania Junior & Youth Championships,2022-05-21,female,Alyssa Roy,73.50,78,82,-85,95,98,-100,82,98,180
 Oceania Junior & Youth Championships,2022-05-21,female,Avatu Opeloge,73.00,73,76,78,92,96,-100,78,96,174
 Oceania Junior & Youth Championships,2022-05-21,female,Medea Jones,79.80,80,84,-87,90,95,-99,84,95,179
@@ -36,8 +36,8 @@ Oceania Junior & Youth Championships,2022-05-21,female,Miniah Summerell,114.60,-
 Oceania Junior & Youth Championships,2022-05-21,female,Helen Anastasia Seipua,111.45,77,-80,82,98,105,-108,82,105,187
 Oceania Junior & Youth Championships,2022-05-21,female,Imoasina Pelenato,111.70,73,76,-80,-106,106,-112,76,106,182
 Oceania Junior & Youth Championships,2022-05-21,male,Philip Masi,54.32,78,82,-87,95,98,-102,82,98,180
-Oceania Junior & Youth Championships,2022-05-21,male,Eroni Talemaigau,54.20,-75,-75,-75,,,,0,0,0
-Oceania Junior & Youth Championships,2022-05-21,male,Apakuki Tabuawaiwai,60.30,-70,-70,-70,,,,0,0,0
+Oceania Junior & Youth Championships,2022-05-21,male,Eroni Talemaigau,54.20,-75,-75,-75,0,0,0,0,0,0
+Oceania Junior & Youth Championships,2022-05-21,male,Apakuki Tabuawaiwai,60.30,-70,-70,-70,0,0,0,0,0,0
 Oceania Junior & Youth Championships,2022-05-21,male,Ditto Ika,66.10,105,110,-112,-138,138,-142,110,138,248
 Oceania Junior & Youth Championships,2022-05-21,male,Avery Fesolai,63.60,95,98,-101,121,126,-130,98,126,224
 Oceania Junior & Youth Championships,2022-05-21,male,Daniel Anthony Shaw,66.10,78,84,90,100,105,112,90,112,202
@@ -47,7 +47,7 @@ Oceania Junior & Youth Championships,2022-05-21,male,Michael Nides,80.70,-114,11
 Oceania Junior & Youth Championships,2022-05-21,male,Jacob Tout,78.30,104,-108,108,129,132,140,108,140,248
 Oceania Junior & Youth Championships,2022-05-21,male,Tovio Ah Chong,79.70,92,96,100,122,126,-131,100,126,226
 Oceania Junior & Youth Championships,2022-05-21,male,Oliver Saxton,88.30,120,130,-140,150,160,170,130,170,300
-Oceania Junior & Youth Championships,2022-05-21,male,Lewis Symonds,86.44,95,100,106,125,130,,106,130,236
+Oceania Junior & Youth Championships,2022-05-21,male,Lewis Symonds,86.44,95,100,106,125,130,0,106,130,236
 Oceania Junior & Youth Championships,2022-05-21,male,Taj Marsh,91.50,118,122,127,145,152,-161,127,152,279
 Oceania Junior & Youth Championships,2022-05-21,male,Sepa  Simoi,94.10,110,120,-128,145,155,-165,120,155,275
 Oceania Junior & Youth Championships,2022-05-21,male,Tauriwau Maciu Valentine,134.45,50,56,-62,65,70,-80,56,70,126

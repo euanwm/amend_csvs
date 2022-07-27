@@ -3,7 +3,7 @@ Australian Junior & Senior Championships,2016-09-09,female,Thelma Toua,48.00,68,
 Australian Junior & Senior Championships,2016-09-09,female,Joan Leong,47.45,49,-52,-53,56,59,-64,49,59,108
 Australian Junior & Senior Championships,2016-09-09,female,Stephanie Pickrell,46.65,43,45,-47,55,59,61,45,61,106
 Australian Junior & Senior Championships,2016-09-09,female,Chelsea Nicoll,46.30,40,43,-45,-48,48,-51,43,48,91
-Australian Junior & Senior Championships,2016-09-09,female,Emily Scott,46.80,-52,-53,-53,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,female,Emily Scott,46.80,-52,-53,-53,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,female,Hannah Kaminski,52.25,66,-69,-69,-77,77,80,66,80,146
 Australian Junior & Senior Championships,2016-09-09,female,Holly Shawcross,51.95,62,64,66,74,-77,-77,66,74,140
 Australian Junior & Senior Championships,2016-09-09,female,Michaela Warwick,51.40,52,57,61,64,69,74,61,74,135
@@ -22,7 +22,7 @@ Australian Junior & Senior Championships,2016-09-09,female,Jessica Lai,62.15,86,
 Australian Junior & Senior Championships,2016-09-09,female,Bianca Sheppard,61.80,68,71,74,71,76,80,74,80,154
 Australian Junior & Senior Championships,2016-09-09,female,Nadine Newbery,61.85,64,-67,68,76,81,-87,68,81,149
 Australian Junior & Senior Championships,2016-09-09,female,Gabrielle Clyburn,61.50,64,-67,-67,75,80,-90,64,80,144
-Australian Junior & Senior Championships,2016-09-09,female,Kiana Elliott,67.55,80,85,91,95,101,,91,101,192
+Australian Junior & Senior Championships,2016-09-09,female,Kiana Elliott,67.55,80,85,91,95,101,0,91,101,192
 Australian Junior & Senior Championships,2016-09-09,female,Marnie Becker,67.15,80,85,90,95,-100,-100,90,95,185
 Australian Junior & Senior Championships,2016-09-09,female,Ebony Gorincu,68.55,77,-80,-80,98,102,-109,77,102,179
 Australian Junior & Senior Championships,2016-09-09,female,Michelle Kahi,68.75,73,77,80,93,99,-102,80,99,179
@@ -34,7 +34,7 @@ Australian Junior & Senior Championships,2016-09-09,female,Nicky Cummins,67.00,6
 Australian Junior & Senior Championships,2016-09-09,female,Erin Gubatanga,67.35,57,60,-63,69,72,75,60,75,135
 Australian Junior & Senior Championships,2016-09-09,female,Alana Evans,67.05,50,-55,55,-67,68,-71,55,68,123
 Australian Junior & Senior Championships,2016-09-09,female,Kiana Lambie,68.55,48,52,56,58,62,67,56,67,123
-Australian Junior & Senior Championships,2016-09-09,female,Prue Delalande,67.85,-70,-71,-72,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,female,Prue Delalande,67.85,-70,-71,-72,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,female,Kylie Thompson,74.10,-88,88,92,104,-109,-109,92,104,196
 Australian Junior & Senior Championships,2016-09-09,female,Sofia Kranjec,74.65,79,-82,-83,96,100,-104,79,100,179
 Australian Junior & Senior Championships,2016-09-09,female,Erin Georgeson,73.05,68,71,-74,87,90,-92,71,90,161
@@ -46,7 +46,7 @@ Australian Junior & Senior Championships,2016-09-09,female,Lydia Olsen,69.85,60,
 Australian Junior & Senior Championships,2016-09-09,female,Jarian Hogan,71.30,55,60,64,75,78,81,64,81,145
 Australian Junior & Senior Championships,2016-09-09,female,Natasha Coombridge,74.00,52,56,-58,73,76,-79,56,76,132
 Australian Junior & Senior Championships,2016-09-09,female,Teagan Newman,71.95,48,-52,52,57,61,-64,52,61,113
-Australian Junior & Senior Championships,2016-09-09,female,Camilla Fogagnolo,72.15,-85,-86,-86,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,female,Camilla Fogagnolo,72.15,-85,-86,-86,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,female,Kaitlyn Fassina,102.65,-94,94,100,114,119,123,100,123,223
 Australian Junior & Senior Championships,2016-09-09,female,Tahina Booth,88.40,85,90,-94,108,-115,-115,90,108,198
 Australian Junior & Senior Championships,2016-09-09,female,Charisma Amoe-Tarrant,118.70,74,77,80,103,107,110,80,110,190
@@ -65,7 +65,7 @@ Australian Junior & Senior Championships,2016-09-09,male,Cooper Wilson,55.10,59,
 Australian Junior & Senior Championships,2016-09-09,male,Kolby Green,55.50,53,56,-60,73,76,80,56,80,136
 Australian Junior & Senior Championships,2016-09-09,male,Hamish Adam,61.70,-90,90,95,-115,115,120,95,120,215
 Australian Junior & Senior Championships,2016-09-09,male,Ling Wei Phillip Liao,61.75,87,92,95,110,-115,116,95,116,211
-Australian Junior & Senior Championships,2016-09-09,male,Simon Obery,61.85,85,-90,-90,107,-112,,85,107,192
+Australian Junior & Senior Championships,2016-09-09,male,Simon Obery,61.85,85,-90,-90,107,-112,0,85,107,192
 Australian Junior & Senior Championships,2016-09-09,male,Kanakai Reibelt,59.55,57,60,-63,75,80,82,60,82,142
 Australian Junior & Senior Championships,2016-09-09,male,Ruben Katoatau,68.40,106,110,114,137,141,145,114,145,259
 Australian Junior & Senior Championships,2016-09-09,male,Dun Chu,68.70,102,107,110,130,-136,136,110,136,246
@@ -80,9 +80,9 @@ Australian Junior & Senior Championships,2016-09-09,male,Mitchell Daniels,68.65,
 Australian Junior & Senior Championships,2016-09-09,male,Nathan Rose,68.85,90,-95,-95,-115,-115,115,90,115,205
 Australian Junior & Senior Championships,2016-09-09,male,Cheok Seng Lee,67.60,82,86,-90,105,-110,110,86,110,196
 Australian Junior & Senior Championships,2016-09-09,male,Matthew Damches,67.05,81,86,90,100,-105,-110,90,100,190
-Australian Junior & Senior Championships,2016-09-09,male,Jason Ager,67.80,-93,-93,-93,,,,0,0,0
-Australian Junior & Senior Championships,2016-09-09,male,Mitchell Eichmann,68.75,-86,-86,-86,,,,0,0,0
-Australian Junior & Senior Championships,2016-09-09,male,Cian Gray,69.00,-87,90,-96,,,,90,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Jason Ager,67.80,-93,-93,-93,0,0,0,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Mitchell Eichmann,68.75,-86,-86,-86,0,0,0,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Cian Gray,69.00,-87,90,-96,0,0,0,90,0,0
 Australian Junior & Senior Championships,2016-09-09,male,Daniel Katz,76.35,122,127,-130,150,155,160,127,160,287
 Australian Junior & Senior Championships,2016-09-09,male,Leo Lark,76.85,-115,115,120,150,163,-168,120,163,283
 Australian Junior & Senior Championships,2016-09-09,male,Paulo Magistrado,76.40,112,115,-117,-148,-148,150,115,150,265
@@ -102,9 +102,9 @@ Australian Junior & Senior Championships,2016-09-09,male,Jake Sbroja,76.05,75,79
 Australian Junior & Senior Championships,2016-09-09,male,Angus Laurie,71.30,74,79,-83,90,95,-100,79,95,174
 Australian Junior & Senior Championships,2016-09-09,male,Kai Longley,75.70,75,79,-83,95,-100,-100,79,95,174
 Australian Junior & Senior Championships,2016-09-09,male,Frank Elliott,75.95,-120,120,-125,-145,-145,-145,120,0,0
-Australian Junior & Senior Championships,2016-09-09,male,Abdul Razak,76.20,100,-105,-105,-117,-117,,100,0,0
-Australian Junior & Senior Championships,2016-09-09,male,Sean Teasdale,76.25,-105,-105,-105,,,,0,0,0
-Australian Junior & Senior Championships,2016-09-09,male,Jonathan Pakchung,76.75,-115,-115,-115,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Abdul Razak,76.20,100,-105,-105,-117,-117,0,100,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Sean Teasdale,76.25,-105,-105,-105,0,0,0,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Jonathan Pakchung,76.75,-115,-115,-115,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,male,Taretiita Tabaroua,77.10,122,126,-129,165,-169,-169,126,165,291
 Australian Junior & Senior Championships,2016-09-09,male,Matthew Pit,83.95,120,125,-128,149,153,-156,125,153,278
 Australian Junior & Senior Championships,2016-09-09,male,Robert Bartlett,83.90,-120,-120,120,-152,152,-158,120,152,272
@@ -126,7 +126,7 @@ Australian Junior & Senior Championships,2016-09-09,male,Vu Tran,81.20,100,-105,
 Australian Junior & Senior Championships,2016-09-09,male,James Naylor-Pratt,83.10,87,-91,-91,110,115,121,87,121,208
 Australian Junior & Senior Championships,2016-09-09,male,James Lyons,82.20,85,-90,90,110,115,-120,90,115,205
 Australian Junior & Senior Championships,2016-09-09,male,Will Portlock,82.15,70,74,78,97,102,-105,78,102,180
-Australian Junior & Senior Championships,2016-09-09,male,Esmail Amini,84.35,-97,-97,-97,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Esmail Amini,84.35,-97,-97,-97,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,male,Kieran Eldridge,84.85,108,-112,-112,-140,-140,-140,108,0,0
 Australian Junior & Senior Championships,2016-09-09,male,Samuel Kennedy,92.85,125,130,135,165,170,-175,135,170,305
 Australian Junior & Senior Championships,2016-09-09,male,Benjamin Shaw,93.85,-128,128,133,-160,161,-168,133,161,294
@@ -145,7 +145,7 @@ Australian Junior & Senior Championships,2016-09-09,male,Paul Tofari,89.15,105,-
 Australian Junior & Senior Championships,2016-09-09,male,Yunus Sarun,86.30,95,100,-105,125,129,131,100,131,231
 Australian Junior & Senior Championships,2016-09-09,male,Elvin Morataya,90.95,92,97,102,122,127,129,102,129,231
 Australian Junior & Senior Championships,2016-09-09,male,Thomas Marais,89.30,94,100,-108,118,-122,124,100,124,224
-Australian Junior & Senior Championships,2016-09-09,male,Rohan Cuffe,93.60,-112,-112,-113,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Rohan Cuffe,93.60,-112,-112,-113,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,male,David Katoatau,103.90,135,-140,-140,195,201,207,135,207,342
 Australian Junior & Senior Championships,2016-09-09,male,Zac Grgurevic,104.65,138,-143,143,175,180,-185,143,180,323
 Australian Junior & Senior Championships,2016-09-09,male,Matthew Lydement,102.90,130,135,140,160,-166,-166,140,160,300
@@ -160,7 +160,7 @@ Australian Junior & Senior Championships,2016-09-09,male,Sharn Slade,101.70,112,
 Australian Junior & Senior Championships,2016-09-09,male,Ryan Keaney,100.25,-105,-110,110,-145,145,-151,110,145,255
 Australian Junior & Senior Championships,2016-09-09,male,Richard Baker,103.60,113,-118,-118,142,-148,-148,113,142,255
 Australian Junior & Senior Championships,2016-09-09,male,Jordan Gotts,94.70,75,80,-85,95,100,105,80,105,185
-Australian Junior & Senior Championships,2016-09-09,male,Geordie Biss,104.45,-132,-132,-132,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Geordie Biss,104.45,-132,-132,-132,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,male,Damon Kelly,147.60,150,155,160,185,193,200,160,200,360
 Australian Junior & Senior Championships,2016-09-09,male,Philip Wood,124.95,-142,-142,142,165,-172,172,142,172,314
 Australian Junior & Senior Championships,2016-09-09,male,Raido Ruven,113.85,122,-128,128,165,170,-186,128,170,298
@@ -171,7 +171,7 @@ Australian Junior & Senior Championships,2016-09-09,male,Edward Maxwell,109.35,-
 Australian Junior & Senior Championships,2016-09-09,male,Mathew Johns,119.35,115,-118,118,136,-143,-143,118,136,254
 Australian Junior & Senior Championships,2016-09-09,male,Jordan Evans,127.80,107,112,115,125,130,135,115,135,250
 Australian Junior & Senior Championships,2016-09-09,male,Michael Hansen Luther,132.70,85,90,93,110,-115,118,93,118,211
-Australian Junior & Senior Championships,2016-09-09,male,Jesse Bonnar,119.50,-120,-120,-121,,,,0,0,0
-Australian Junior & Senior Championships,2016-09-09,male,Ben Paris,61.60,-92,-92,-92,,,,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Jesse Bonnar,119.50,-120,-120,-121,0,0,0,0,0,0
+Australian Junior & Senior Championships,2016-09-09,male,Ben Paris,61.60,-92,-92,-92,0,0,0,0,0,0
 Australian Junior & Senior Championships,2016-09-09,male,Jonathon Valentine,68.65,90,-93,-94,115,-120,-120,90,115,205
 Australian Junior & Senior Championships,2016-09-09,male,Warren Hellisen,93.80,107,-111,-111,145,-153,-153,107,145,252

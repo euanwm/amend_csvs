@@ -6,13 +6,13 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 3rd Annual Ralph Cashman Open,2013-02-23,female,Sandra Young,59.83,25,27,30,33,35,38,30,38,68
 3rd Annual Ralph Cashman Open,2013-02-23,male,Hamish Adam,54.68,62,68,-70,72,80,-83,68,80,148
 3rd Annual Ralph Cashman Open,2013-02-23,male,Peter Gremos,55.63,-52,52,-55,58,63,-65,52,63,115
-3rd Annual Ralph Cashman Open,2013-02-23,male,Ravshanbek Gulyamov,80.08,130,135,-138,155,-160,,135,155,290
+3rd Annual Ralph Cashman Open,2013-02-23,male,Ravshanbek Gulyamov,80.08,130,135,-138,155,-160,0,135,155,290
 3rd Annual Ralph Cashman Open,2013-02-23,male,Stephen Muldoon,79.77,80,85,88,110,-117,-121,88,110,198
 3rd Annual Ralph Cashman Open,2013-02-23,male,Alex Wallace,93.96,-110,110,-120,120,-156,-156,110,120,230
 3rd Annual Ralph Cashman Open,2013-02-23,male,Patrick Canavan,89.59,70,80,85,100,110,-120,85,110,195
 3rd Annual Ralph Cashman Open,2013-02-23,male,Simon Callander,88.29,50,60,-70,80,95,110,60,110,170
 3rd Annual Ralph Cashman Open,2013-02-23,male,Edward Maxwell,100.75,68,72,-75,85,90,-95,72,90,162
-3rd Annual Ralph Cashman Open,2013-02-23,male,Matthew Lilli,96.08,60,65,-70,,,,65,0,0
+3rd Annual Ralph Cashman Open,2013-02-23,male,Matthew Lilli,96.08,60,65,-70,0,0,0,65,0,0
 3rd Annual Ralph Cashman Open,2013-02-23,male,John Preston,68.02,30,-35,-35,40,45,-50,30,45,75
 3rd Annual Ralph Cashman Open,2013-02-23,male,Peter Ticehurst,84.11,45,-51,-51,60,-65,65,45,65,110
 3rd Annual Ralph Cashman Open,2013-02-23,male,Edward Mandla,94.63,70,75,80,90,95,100,80,100,180

@@ -14,8 +14,8 @@ VWA Open and Masters GP4,2013-09-21,male,James Delaney,57.30,75,80,-83,-95,-95,9
 VWA Open and Masters GP4,2013-09-21,male,Tom Lengyel,68.85,90,95,100,115,-120,120,100,120,220
 VWA Open and Masters GP4,2013-09-21,male,Jonathan Tran,68.90,82,87,-90,105,110,-112,87,110,197
 VWA Open and Masters GP4,2013-09-21,male,Derik Tam,68.45,60,-68,68,80,85,-90,68,85,153
-VWA Open and Masters GP4,2013-09-21,male,Francois Etoundi,75.55,-130,-130,130,160,-161,,130,160,290
-VWA Open and Masters GP4,2013-09-21,male,Paulo Magistrado,76.60,119,-123,-125,,,,119,0,0
+VWA Open and Masters GP4,2013-09-21,male,Francois Etoundi,75.55,-130,-130,130,160,-161,0,130,160,290
+VWA Open and Masters GP4,2013-09-21,male,Paulo Magistrado,76.60,119,-123,-125,0,0,0,119,0,0
 VWA Open and Masters GP4,2013-09-21,male,Nicholas Ryan,84.55,65,70,-75,85,90,95,70,95,165
 VWA Open and Masters GP4,2013-09-21,male,Lewis Ronan,84.40,-70,-70,70,85,-90,92,70,92,162
 VWA Open and Masters GP4,2013-09-21,male,Brendan Tuck,83.70,65,-70,70,85,90,-92,70,90,160
@@ -33,6 +33,6 @@ VWA Open and Masters GP4,2013-09-21,male,Chris Holt,76.90,45,50,-55,65,-70,-75,5
 VWA Open and Masters GP4,2013-09-21,male,Armando Miotti,84.70,96,100,103,120,126,-130,103,126,229
 VWA Open and Masters GP4,2013-09-21,male,Euan Warren,84.35,90,-94,96,117,-122,122,96,122,218
 VWA Open and Masters GP4,2013-09-21,male,Bryan Leech,85.00,70,75,78,90,100,102,78,102,180
-VWA Open and Masters GP4,2013-09-21,male,John Clow,87.85,65,70,,88,-95,,70,88,158
-VWA Open and Masters GP4,2013-09-21,male,Frank Parsons,85.85,45,-50,,-65,65,,45,65,110
+VWA Open and Masters GP4,2013-09-21,male,John Clow,87.85,65,70,0,88,-95,0,70,88,158
+VWA Open and Masters GP4,2013-09-21,male,Frank Parsons,85.85,45,-50,0,-65,65,0,45,65,110
 VWA Open and Masters GP4,2013-09-21,male,Ashley Kent,99.65,78,82,-85,98,102,105,82,105,187

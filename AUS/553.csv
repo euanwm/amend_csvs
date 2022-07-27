@@ -8,7 +8,7 @@ VWA Open,2014-03-22,female,Clare Cherry,72.90,67,-70,-70,85,-89,89,67,89,156
 VWA Open,2014-03-22,female,Erin Gubatanga,69.90,44,47,49,55,58,61,49,61,110
 VWA Open,2014-03-22,female,Elaine Janes,62.70,23,-25,-25,31,-33,33,23,33,56
 VWA Open,2014-03-22,male,Milo Marich,37.90,15,16,17,21,23,-25,17,23,40
-VWA Open,2014-03-22,male,James Delaney,57.70,77,81,-83,97,101,,81,101,182
+VWA Open,2014-03-22,male,James Delaney,57.70,77,81,-83,97,101,0,81,101,182
 VWA Open,2014-03-22,male,Samuel Reichler,68.15,-80,80,-83,92,96,-100,80,96,176
 VWA Open,2014-03-22,male,Jayden Dakdouk,62.40,51,54,57,70,75,-78,57,75,132
 VWA Open,2014-03-22,male,Nicholas Chatgoglou,68.75,37,-40,40,50,53,56,40,56,96
@@ -29,5 +29,5 @@ VWA Open,2014-03-22,male,Matthew Scott,120.55,117,122,-126,158,-163,-163,122,158
 VWA Open,2014-03-22,male,Michael Hageman,113.95,65,70,75,110,117,121,75,121,196
 VWA Open,2014-03-22,male,Shane Bailey,76.80,-74,74,76,-92,-92,-92,76,0,0
 VWA Open,2014-03-22,male,Armando Miotti,88.25,100,108,110,125,136,138,110,138,248
-VWA Open,2014-03-22,male,Milos Trnka,84.70,45,-48,48,58,62,,48,62,110
+VWA Open,2014-03-22,male,Milos Trnka,84.70,45,-48,48,58,62,0,48,62,110
 VWA Open,2014-03-22,male,Frank Parsons,89.50,45,47,-49,62,65,68,47,68,115

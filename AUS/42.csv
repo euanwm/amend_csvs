@@ -2,7 +2,7 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 VWA Open ,2012-05-26,female,Vivian Lee,48.85,63,-67,67,82,87,90,67,90,157
 VWA Open ,2012-05-26,female,Alexandra Martin,53.30,35,-38,39,43,46,-49,39,46,85
 VWA Open ,2012-05-26,female,Seen Lee,59.20,-78,78,-82,95,100,-104,78,100,178
-VWA Open ,2012-05-26,female,Jacquie White,62.95,66,70,72,84,88,,72,88,160
+VWA Open ,2012-05-26,female,Jacquie White,62.95,66,70,72,84,88,0,72,88,160
 VWA Open ,2012-05-26,female,Sara Loh,65.95,35,40,45,55,60,65,45,65,110
 VWA Open ,2012-05-26,female,Miranda Hoare,67.50,-48,48,51,53,-56,56,51,56,107
 VWA Open ,2012-05-26,female,Jessica Parsons,74.60,33,36,38,45,-48,-51,38,45,83

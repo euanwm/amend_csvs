@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Ella Coppelia Mason,48.90,41,-43,43,54,-57,-57,43,54,97
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Holly Shawcross,54.95,-65,65,69,-83,83,86,69,86,155
-Controlled Chaos Weightlifting Competition,2019-03-02,female,Amber Fielder,55.00,50,53,55,64,68,,55,68,123
+Controlled Chaos Weightlifting Competition,2019-03-02,female,Amber Fielder,55.00,50,53,55,64,68,0,55,68,123
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Michelle Farfoud,51.90,36,-38,-38,52,55,56,36,56,92
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Bernadette Kinnane,52.70,30,32,-34,40,42,44,32,44,76
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Grace Macdonald,57.60,-53,53,-60,60,66,70,53,70,123
@@ -20,13 +20,13 @@ Controlled Chaos Weightlifting Competition,2019-03-02,female,Lakaiya Walker,65.0
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Deena Henaway,72.80,44,-44,44,54,57,58,44,58,102
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Yindi Hayden-Horan,72.00,38,42,-44,47,51,-55,42,51,93
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Sara Duncan,78.70,50,54,-57,65,76,80,54,80,134
-Controlled Chaos Weightlifting Competition,2019-03-02,female,Kate Linford,114.80,-60,-65,,80,,,54,80,134
+Controlled Chaos Weightlifting Competition,2019-03-02,female,Kate Linford,114.80,-60,-65,0,80,0,0,54,80,134
 Controlled Chaos Weightlifting Competition,2019-03-02,female,Larnie Bruce,108.20,37,40,-42,47,50,-52,40,50,90
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Dexter Todd,60.00,60,-63,63,76,79,82,63,82,145
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Daniel Pitisano,65.25,85,90,-92,118,-126,126,90,126,216
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Tony Sok,65.70,81,86,-90,107,-111,111,86,111,197
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Johnny Pham,71.50,65,70,75,78,85,90,75,90,165
-Controlled Chaos Weightlifting Competition,2019-03-02,male,James Delaney,70.40,-110,-110,-110,,,,0,0,0
+Controlled Chaos Weightlifting Competition,2019-03-02,male,James Delaney,70.40,-110,-110,-110,0,0,0,0,0,0
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Sam Flavell,77.95,105,110,115,130,-135,135,115,135,250
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Samuel Steel,77.77,106,110,-115,130,135,-140,110,135,245
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Luke Anderson,78.30,107,110,-113,120,125,128,110,128,238
@@ -36,7 +36,7 @@ Controlled Chaos Weightlifting Competition,2019-03-02,male,Omar Ebaid,79.10,64,6
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Jake Davis,78.80,63,67,70,-91,91,-95,70,91,161
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Hussein Hafez,76.20,60,64,69,83,87,-91,69,87,156
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Jack Moloney,76.90,60,63,65,78,80,-82,65,80,145
-Controlled Chaos Weightlifting Competition,2019-03-02,male,Sam Storer,80.30,-100,-100,-100,,,,0,0,0
+Controlled Chaos Weightlifting Competition,2019-03-02,male,Sam Storer,80.30,-100,-100,-100,0,0,0,0,0,0
 Controlled Chaos Weightlifting Competition,2019-03-02,male,An-Ti Hsu,88.55,120,127,134,150,-160,-160,134,150,284
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Sean Erb,83.50,100,105,110,-130,130,136,110,136,246
 Controlled Chaos Weightlifting Competition,2019-03-02,male,Paul Tofari,83.10,80,90,-100,110,120,-125,90,120,210

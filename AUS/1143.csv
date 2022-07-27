@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 WA Eleiko Club Challenge Qualifier,2016-05-07,female,Joan Leong,47.40,-35,40,43,55,58,-65,43,58,101
-WA Eleiko Club Challenge Qualifier,2016-05-07,female,Georgia Cervin,48.60,48,-50,52,60,65,,52,65,117
+WA Eleiko Club Challenge Qualifier,2016-05-07,female,Georgia Cervin,48.60,48,-50,52,60,65,0,52,65,117
 WA Eleiko Club Challenge Qualifier,2016-05-07,female,Natasha Giuffe,55.90,27,30,33,37,41,44,33,44,77
 WA Eleiko Club Challenge Qualifier,2016-05-07,female,Rebecca Payne,60.00,58,62,-65,78,-81,82,62,82,144
 WA Eleiko Club Challenge Qualifier,2016-05-07,female,Elizabeth Duguid,66.60,65,-70,70,90,-94,-94,70,90,160
@@ -12,13 +12,13 @@ WA Eleiko Club Challenge Qualifier,2016-05-07,female,Monica Cook,66.00,30,35,-40
 WA Eleiko Club Challenge Qualifier,2016-05-07,female,Cheryl Falconer,65.30,30,-33,33,38,42,-45,33,42,75
 WA Eleiko Club Challenge Qualifier,2016-05-07,female,Storm Falconer,74.40,48,52,55,64,-68,-70,55,64,119
 WA Eleiko Club Challenge Qualifier,2016-05-07,female,Danielle Tuffnell,80.00,40,45,-48,55,60,63,45,63,108
-WA Eleiko Club Challenge Qualifier,2016-05-07,male,Josh Stolton,54.90,68,71,76,90,96,,76,96,172
+WA Eleiko Club Challenge Qualifier,2016-05-07,male,Josh Stolton,54.90,68,71,76,90,96,0,76,96,172
 WA Eleiko Club Challenge Qualifier,2016-05-07,male,Brett Shadbolt,38.60,20,24,27,28,32,-36,27,32,59
-WA Eleiko Club Challenge Qualifier,2016-05-07,male,Jaime Escalante,64.80,60,-65,,,,,60,0,0
+WA Eleiko Club Challenge Qualifier,2016-05-07,male,Jaime Escalante,64.80,60,-65,0,0,0,0,60,0,0
 WA Eleiko Club Challenge Qualifier,2016-05-07,male,Nick Difabio,75.00,95,-100,-100,-130,-136,136,95,136,231
 WA Eleiko Club Challenge Qualifier,2016-05-07,male,Connor Miller-Chalmers,74.70,-70,70,-80,90,100,-107,70,100,170
 WA Eleiko Club Challenge Qualifier,2016-05-07,male,William Forward,75.10,55,58,62,75,80,-85,62,80,142
-WA Eleiko Club Challenge Qualifier,2016-05-07,male,Phil Mcdowell,73.30,-80,-80,-80,,,,0,0,0
+WA Eleiko Club Challenge Qualifier,2016-05-07,male,Phil Mcdowell,73.30,-80,-80,-80,0,0,0,0,0,0
 WA Eleiko Club Challenge Qualifier,2016-05-07,male,Jason Kain,83.80,87,91,-96,120,126,132,91,132,223
 WA Eleiko Club Challenge Qualifier,2016-05-07,male,Kieran Mcleod,84.10,55,-58,58,75,80,-85,58,80,138
 WA Eleiko Club Challenge Qualifier,2016-05-07,male,Thomas Smith,91.40,120,124,127,147,152,157,127,157,284

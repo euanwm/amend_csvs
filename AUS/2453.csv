@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SAWLA December Open,2020-12-11,male,James Wallace,66.56,78,82,-85,-95,95,,82,95,177
+SAWLA December Open,2020-12-11,male,James Wallace,66.56,78,82,-85,-95,95,0,82,95,177
 SAWLA December Open,2020-12-11,male,Andrew Dodman,66.48,52,-55,-55,70,75,-80,52,75,127
 SAWLA December Open,2020-12-11,male,Steven Trang,72.70,85,-90,-90,-112,-112,112,85,112,197
 SAWLA December Open,2020-12-11,male,Benjamin Sanvichith,72.74,80,85,90,-100,104,-110,90,104,194

@@ -3,7 +3,7 @@ Australian International,2016-03-18,female,Hailee Jarrett,47.60,-52,52,54,65,-68
 Australian International,2016-03-18,female,Holly Shawcross,52.10,-57,57,60,74,-77,-77,60,74,134
 Australian International,2016-03-18,female,Alyce Stephenson,51.90,48,51,54,68,72,75,54,75,129
 Australian International,2016-03-18,female,Seen Lee,57.75,82,-86,86,-102,-102,102,86,102,188
-Australian International,2016-03-18,female,Madeline Wu,57.70,65,67,68,79,82,,68,82,150
+Australian International,2016-03-18,female,Madeline Wu,57.70,65,67,68,79,82,0,68,82,150
 Australian International,2016-03-18,female,Jessica Edge,57.90,48,52,-55,66,70,73,52,73,125
 Australian International,2016-03-18,female,Kiana Elliott,62.15,88,90,93,107,-110,-113,93,107,200
 Australian International,2016-03-18,female,Jessica Lai,62.45,85,-88,-89,96,-99,-100,85,96,181
@@ -33,7 +33,7 @@ Australian International,2016-03-18,male,Joshua Wu,68.15,97,-101,101,127,132,135
 Australian International,2016-03-18,male,Kanishka Guyan Jayaratne,68.75,92,97,-102,122,127,133,97,133,230
 Australian International,2016-03-18,male,Jason Ager,67.20,86,89,92,115,119,-123,92,119,211
 Australian International,2016-03-18,male,Corey Smith,66.80,70,-74,74,95,100,-106,74,100,174
-Australian International,2016-03-18,male,Dun Chu,68.70,-110,-110,-110,,,,0,0,0
+Australian International,2016-03-18,male,Dun Chu,68.70,-110,-110,-110,0,0,0,0,0,0
 Australian International,2016-03-18,male,Frank Elliott,76.60,124,-129,-129,145,150,153,124,153,277
 Australian International,2016-03-18,male,Leo Lark,76.35,116,120,122,143,148,152,122,152,274
 Australian International,2016-03-18,male,Ryley Porter,76.65,108,114,-121,137,142,-147,114,142,256
@@ -54,8 +54,8 @@ Australian International,2016-03-18,male,Michael Nolan,89.75,-90,90,95,115,120,-
 Australian International,2016-03-18,male,Jackson Roberts-Young,100.35,113,118,122,158,-164,164,122,164,286
 Australian International,2016-03-18,male,Matthew Lydement,101.75,115,120,125,145,150,-155,125,150,275
 Australian International,2016-03-18,male,Grant Haines,104.00,115,120,-123,-135,-135,135,120,135,255
-Australian International,2016-03-18,male,Robert Galsworthy,103.65,-138,-138,,,,,0,0,0
-Australian International,2016-03-18,male,Damon Kelly,144.90,-160,160,-165,180,,,160,180,340
+Australian International,2016-03-18,male,Robert Galsworthy,103.65,-138,-138,0,0,0,0,0,0,0
+Australian International,2016-03-18,male,Damon Kelly,144.90,-160,160,-165,180,0,0,160,180,340
 Australian International,2016-03-18,male,Mitchil Mann,111.40,125,-130,130,155,160,-165,130,160,290
 Australian International,2016-03-18,male,Jackson Solofa,124.30,125,130,-135,156,-161,-164,130,156,286
 Australian International,2016-03-18,male,Jordan Evans,130.80,-108,108,-113,-130,-130,130,108,130,238

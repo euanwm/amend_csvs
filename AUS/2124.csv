@@ -2,7 +2,7 @@ event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lif
 Stay True Open Club Competition,2019-07-13,female,Karamea King,36.60,9,10,-11,11,12,13,10,13,23
 Stay True Open Club Competition,2019-07-13,male,Lilliana Kendall,60.75,21,23,25,25,28,30,25,30,55
 Stay True Open Club Competition,2019-07-13,female,Cassandra Avenell,59.85,21,23,25,30,33,35,25,35,60
-Stay True Open Club Competition,2019-07-13,female,Amie Cox,70.75,63,-66,69,83,86,,69,86,155
+Stay True Open Club Competition,2019-07-13,female,Amie Cox,70.75,63,-66,69,83,86,0,69,86,155
 Stay True Open Club Competition,2019-07-13,female,Ella Taylor,70.75,25,28,31,40,43,45,31,45,76
 Stay True Open Club Competition,2019-07-13,male,James Chaille,34.60,-17,17,19,24,26,28,19,28,47
 Stay True Open Club Competition,2019-07-13,male,Manning Jeffrey,31.95,9,10,11,11,12,13,11,13,24

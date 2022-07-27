@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 SAWLA December Open,2015-12-19,female,Tonia Fielke,57.32,45,50,53,67,72,-77,53,72,125
-SAWLA December Open,2015-12-19,female,Deanna Dimasi,68.04,-65,-65,,,,,0,0,0
+SAWLA December Open,2015-12-19,female,Deanna Dimasi,68.04,-65,-65,0,0,0,0,0,0,0
 SAWLA December Open,2015-12-19,female,Leilani Dawes,73.22,-73,73,76,93,98,103,76,103,179
 SAWLA December Open,2015-12-19,female,Emma Facoory,91.34,60,64,67,80,-85,85,67,85,152
 SAWLA December Open,2015-12-19,female,Linda Kyritsis,57.52,38,41,45,51,-54,54,45,54,99

@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-HWC Australia Day Competition,2014-01-25,female,Jessica Partridge,64.95,70,-73,-73,92,95,,70,95,165
+HWC Australia Day Competition,2014-01-25,female,Jessica Partridge,64.95,70,-73,-73,92,95,0,70,95,165
 HWC Australia Day Competition,2014-01-25,female,Belinda Van Tienen,77.35,80,83,-86,100,104,107,83,107,190
 HWC Australia Day Competition,2014-01-25,female,Kate Linford,109.50,70,75,80,90,94,-98,80,94,174
 HWC Australia Day Competition,2014-01-25,female,Bernadette Kinnane,54.40,31,-33,-33,41,43,45,31,45,76
